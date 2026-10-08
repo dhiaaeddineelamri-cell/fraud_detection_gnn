@@ -4,7 +4,7 @@
 
 ### Step 1: Install Dependencies (First Time Only)
 ```bash
-cd C:\Users\Malek\.gemini\antigravity\scratch\nexus-ai
+cd fraud_detection_gnn
 pip install -r requirements.txt
 ```
 
@@ -27,7 +27,7 @@ streamlit run app.py
 
 **[Slide 2 - Solution Demo]**  
 *Launch dashboard*  
-"Nexus AI uses Graph Neural Networks to detect collusion patterns. Watch as we scan 500+ insurance claims..."
+"Nexus AI uses graph analytics to detect collusion patterns. Watch as we scan 500+ insurance claims..."
 
 *Click "Ingest Data & Scan"*
 
@@ -120,4 +120,4 @@ If Streamlit fails during presentation:
 
 ---
 
-**Made with ❤️ for EY x Dauphine Hackathon 2024**
+**Made by team Pied Piper for the EY × Dauphine Tunis Hackathon 2025**
